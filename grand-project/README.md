@@ -41,3 +41,4 @@ A resume tailoring tool where users log in using email magic links. They enter j
 
 ## 🌐 Live Deployment
 Hosted on Vercel:
+https://nexium-amna-sajid-resume-tailor-jyq.vercel.app/
